@@ -1,0 +1,37 @@
+{
+  "name": "@sarosia/once",
+  "version": "1.0.0",
+  "description": "The simple JavaScript library to call a function once and only once",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --reporter spec --bail --check-leaks test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarosia/once.git"
+  },
+  "keywords": [
+    "once"
+  ],
+  "author": "https://github.com/sarosia",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^7.17.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "mocha": "^8.2.1",
+    "prettier": "^2.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/sarosia/once/issues"
+  },
+  "homepage": "https://github.com/sarosia/once#readme"
+}
