@@ -1,6 +1,6 @@
 {
   "name": "@sarosia/once",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The simple JavaScript library to call a function once and only once",
   "main": "index.js",
   "directories": {
