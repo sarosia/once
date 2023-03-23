@@ -1,1 +1,1 @@
-module.exports = require('lib/once.js');
+module.exports = require('./lib/once.js');
